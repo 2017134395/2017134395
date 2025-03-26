@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, particularly in web and mobile applications.
 - 🌱 I’m currently learning JavaScript, Vue.js, React, and exploring machine learning.
 - 💞️ I’m looking to collaborate on open-source projects, or any exciting tech-related ideas.
-- 📫 How to reach me: You can contact me through my GitHub or email me at [your-email@example.com].
+- 📫 How to reach me: You can contact me through my GitHub or email me at [2017134395@qq.com].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a simple AI that can predict the weather based on historical 
